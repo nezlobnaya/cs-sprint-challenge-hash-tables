@@ -44,7 +44,7 @@ Your function should output an array of strings with the entire route of
 your trip. For the above example, it should look like this:
 
 ```
-["LAX", "SFO", "BHM", "FLG", "XNA", "CID", "SLC", "PIT", "ORD"]
+["LAX", "SFO", "BHM", "FLG", "XNA", "CID", "SLC", "PIT", "ORD", NONE]
 ```
 
 Your solution should run in linear time. You can assume that your
